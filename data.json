@@ -1,0 +1,22 @@
+[
+    {
+        "name":"abram",
+        "balance":50000
+    },
+    {
+        "name":"antony",
+        "balance":150000
+    },
+    {
+        "name":"razal",
+        "balance":20000
+    },
+    {
+        "name":"sukla",
+        "balance":300
+    },
+    {
+        "name":"joy vargees",
+        "balance":50000
+    }
+]
